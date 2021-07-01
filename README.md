@@ -3,7 +3,7 @@
 
 ### My Status
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=Nimantha815&show_icons=true&hide_border=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nimantha815&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimantha815&langs_count=5&theme=tokyonight)]()
 
