@@ -4,6 +4,9 @@
 ### Status
 
 <img align="left" alt="My github status" src="https://github-readme-stats.vercel.app/api?username=Nimantha815&show_icons=true&hide_border=true"/>
+### Most used Languages
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimantha815&langs_count=5&theme=tokyonight)]()
 
 <!--
 **Nimantha815/Nimantha815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
